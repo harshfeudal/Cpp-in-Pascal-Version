@@ -45,14 +45,14 @@ int main() {
     input(arr, n);
 
     std::cout << std::endl;
-    std::cout << “Array that you have just filled in: “ << std::endl;
+    std::cout << "Array that you have just filled in: " << std::endl;
     output_no_order(arr, n);
 
     //I code on mobile to finish it, haven’t checked if it’s right or not from here
     std::cout << std::endl;    //spacing thingy
     
     order(arr, n);
-    std::cout << “After ordered:” << std::endl;
+    std::cout << "After ordered:" << std::endl;
     output_ordered(arr, n);
 
     return 0;
