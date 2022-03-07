@@ -48,7 +48,7 @@ int main() {
     std::cout << "Array that you have just filled in: " << std::endl;
     output_no_order(arr, n);
 
-    //I code on mobile to finish it, haven’t checked if it’s right or not from here
+    //Updated and tested on my computer :>
     std::cout << std::endl;    //spacing thingy
     
     order(arr, n);
