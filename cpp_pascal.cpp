@@ -45,5 +45,9 @@ int main() {
     input(arr, n);
     output_no_order(arr, n);
 
-    //under-cons
+    //I code on mobile to finish it, haven’t checked if it’s right or not from here
+    order(arr, n);
+    output_ordered(arr, n);
+
+    return 0;
 }
