@@ -6,7 +6,7 @@ Since I’m busy now, so I’ve just pre-uploaded this file. I’ll soon update 
 
 **Update recently:** *03/07/2022, 22:07 GMT+7* <br />
 I've just fixed and updated on my computer, it's now free of bugs :> <br />
-To use it, you just compile `cpp_pascal.cpp` and run their `.exe` file. Enjoy :) <br /><br />
+To use it, you just compile `cpp_pascal.cpp` and `cpp_pascal.pas`, then run their `.exe` file. Enjoy :) <br /><br />
 
 **My Discord server:** just click [here](https://discord.gg/harshfeudal) :> <br />
 Thanks for visiting my respiratory!
